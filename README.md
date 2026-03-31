@@ -17,7 +17,7 @@ It supports basic arithmetic operations with a modern UI design.
 
 ## 📸 Screenshot
 
-![Calculator UI](./assets/screenshot.png)
+![Calculator UI](./assets/Screenshot.png)
 
 > 📌 Replace the image path with your actual screenshot file
 
