@@ -85,5 +85,5 @@ For production-level apps, consider safer alternatives.
 
 ## 🙌 Author
 
-Your Name
+Satyam kumar
 GitHub: https://github.com/satyamkr-05
